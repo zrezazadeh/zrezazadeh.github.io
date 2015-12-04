@@ -4,7 +4,7 @@ title:  "برایش نوشتم..."
 permalink: blog/matn3
 parsidate: جمعه 15 آبان 1394
 comments: true
-imglink: http://hosseinkarami.com/assets/img/post/del.jpg
+imglink: http://zahrarezazadeh.ir/assets/img/post/del.jpg
 ---
 **برایش نوشتم..**
 **گاه کمی فراموشی بد نیست!**

@@ -4,7 +4,7 @@ title:  "شروع به نوشتن"
 permalink: blog/matn2
 parsidate: جمعه 15 آبان 1394
 comments: true
-imglink: http://hosseinkarami.com/assets/img/post/bad.jpg
+imglink: http://zahrarezazadeh.ir/assets/img/post/bad.jpg
 ---
 یک روز استاد دانشگاه به هر کدام از دانشجویان کلاس یک بادکنک باد شده و یک سوزن داد و گفت یک دقیقه فرصت دارید بادکنکهای یکدیگر را بترکانید هرکس بعد از یک دقیقه بادکنکش را سالم تحویل داد برنده است
 
