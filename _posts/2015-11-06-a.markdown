@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "دردناک است..."
+permalink: blog/a
+parsidate: یک شنبه15اذر1394
+comments: true
+imglink: http://zahrarezazadeh.ir/assets/img/post/a.jpg
+---
+جقدر دردناک است...
+وقتی ناتوان ای در برابر از دست دادن...
+باارزش ترین جیز زندگیت...
