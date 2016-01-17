@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "دردناک است..."
+title:  "تبريك"
 permalink: blog/a
-parsidate: یک شنبه15اذر1394
+parsidate: يك شنبه 27 ىي ماه
 comments: true
 imglink: http://zahrarezazadeh.ir/assets/img/post/a.jpg
 ---
-جقدر دردناک است...
-وقتی ناتوان ای در برابر از دست دادن...
-باارزش ترین جیز زندگیت...
+برجام رابه استاى طرامي تبريك عرض مي نماييم
